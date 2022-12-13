@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" ignored="0" total="5" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="54178" started-at="2022-12-12T22:55:44 GMT" finished-at="2022-12-12T22:56:38 GMT">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="54178" started-at="2022-12-12T22:55:44 GMT" finished-at="2022-12-12T22:56:38 GMT">
+      <class name="com.bank.testsuite.BankTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="setUp" is-config="true" duration-ms="18420" started-at="2022-12-12T22:55:45 GMT" finished-at="2022-12-12T22:56:03 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="inIt" is-config="true" duration-ms="70" started-at="2022-12-12T22:56:03 GMT" finished-at="2022-12-12T22:56:03 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="bankManagerShouldAddCustomerSuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="bankManagerShouldAddCustomerSuccessfully" duration-ms="2142" started-at="2022-12-12T22:56:03 GMT" finished-at="2022-12-12T22:56:06 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (57646109cf995fa9aee818177418e183)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankManagerShouldAddCustomerSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="tearDown" is-config="true" duration-ms="834" started-at="2022-12-12T22:56:06 GMT" finished-at="2022-12-12T22:56:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="setUp" is-config="true" duration-ms="3299" started-at="2022-12-12T22:56:06 GMT" finished-at="2022-12-12T22:56:10 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="inIt" is-config="true" duration-ms="5" started-at="2022-12-12T22:56:10 GMT" finished-at="2022-12-12T22:56:10 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="FAIL" signature="bankManagerShouldOpenAccountSuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="bankManagerShouldOpenAccountSuccessfully" duration-ms="2083" started-at="2022-12-12T22:56:10 GMT" finished-at="2022-12-12T22:56:12 GMT">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [12423aa82e89f33199151e538f52ee01, clickElement {id=dd03989d-6460-4bce-8fd5-fe33424a5257}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63169}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63169/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: 12423aa82e89f33199151e538f52ee01]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [12423aa82e89f33199151e538f52ee01, clickElement {id=dd03989d-6460-4bce-8fd5-fe33424a5257}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63169}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63169/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: 12423aa82e89f33199151e538f52ee01
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy15.click(Unknown Source)
+at com.bank.utility.Utility.clickOnElement(Utility.java:50)
+at com.bank.pages.HomePage.clickOnBankManagerLogin(HomePage.java:31)
+at com.bank.testsuite.BankTest.bankManagerShouldOpenAccountSuccessfully(BankTest.java:67)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+            <line>
+              <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (12423aa82e89f33199151e538f52ee01)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankManagerShouldOpenAccountSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="tearDown" is-config="true" duration-ms="838" started-at="2022-12-12T22:56:12 GMT" finished-at="2022-12-12T22:56:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="setUp" is-config="true" duration-ms="3760" started-at="2022-12-12T22:56:13 GMT" finished-at="2022-12-12T22:56:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="inIt" is-config="true" duration-ms="3" started-at="2022-12-12T22:56:17 GMT" finished-at="2022-12-12T22:56:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="FAIL" signature="customerShouldDepositMoneySuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="customerShouldDepositMoneySuccessfully" duration-ms="2010" started-at="2022-12-12T22:56:17 GMT" finished-at="2022-12-12T22:56:19 GMT">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8041728e247f8af61ade9f6ed7051fc5, clickElement {id=3ead3630-89e9-414f-9828-8da928d01163}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63198}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63198/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: 8041728e247f8af61ade9f6ed7051fc5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8041728e247f8af61ade9f6ed7051fc5, clickElement {id=3ead3630-89e9-414f-9828-8da928d01163}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63198}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63198/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: 8041728e247f8af61ade9f6ed7051fc5
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy15.click(Unknown Source)
+at com.bank.utility.Utility.clickOnElement(Utility.java:50)
+at com.bank.pages.HomePage.clickOnBankManagerLogin(HomePage.java:31)
+at com.bank.testsuite.BankTest.customerShouldDepositMoneySuccessfully(BankTest.java:116)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+            <line>
+              <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (8041728e247f8af61ade9f6ed7051fc5)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldDepositMoneySuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="tearDown" is-config="true" duration-ms="814" started-at="2022-12-12T22:56:19 GMT" finished-at="2022-12-12T22:56:20 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="setUp" is-config="true" duration-ms="8386" started-at="2022-12-12T22:56:20 GMT" finished-at="2022-12-12T22:56:28 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="inIt" is-config="true" duration-ms="3" started-at="2022-12-12T22:56:28 GMT" finished-at="2022-12-12T22:56:28 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="FAIL" signature="customerShouldLoginAndLogoutSuceessfully()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="customerShouldLoginAndLogoutSuceessfully" duration-ms="2072" started-at="2022-12-12T22:56:28 GMT" finished-at="2022-12-12T22:56:31 GMT">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e01936ffe6e73f0d90730013a9c7ec5, clickElement {id=f3eb1682-632f-4a64-8ff2-9f52cd6bc139}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63228}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63228/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: 2e01936ffe6e73f0d90730013a9c7ec5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e01936ffe6e73f0d90730013a9c7ec5, clickElement {id=f3eb1682-632f-4a64-8ff2-9f52cd6bc139}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63228}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63228/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: 2e01936ffe6e73f0d90730013a9c7ec5
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy15.click(Unknown Source)
+at com.bank.utility.Utility.clickOnElement(Utility.java:50)
+at com.bank.pages.HomePage.clickOnBankManagerLogin(HomePage.java:31)
+at com.bank.testsuite.BankTest.customerShouldLoginAndLogoutSuceessfully(BankTest.java:88)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+            <line>
+              <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (2e01936ffe6e73f0d90730013a9c7ec5)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldLoginAndLogoutSuceessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="tearDown" is-config="true" duration-ms="895" started-at="2022-12-12T22:56:31 GMT" finished-at="2022-12-12T22:56:32 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="setUp" is-config="true" duration-ms="3356" started-at="2022-12-12T22:56:32 GMT" finished-at="2022-12-12T22:56:35 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-12T22:56:35 GMT" finished-at="2022-12-12T22:56:35 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="FAIL" signature="customerShouldWithdrawMoneySuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="customerShouldWithdrawMoneySuccessfully" duration-ms="1984" started-at="2022-12-12T22:56:35 GMT" finished-at="2022-12-12T22:56:37 GMT">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d69b11698f86679b88ad8798ff89ee85, clickElement {id=3f458b6b-9ca7-4050-9fdf-04999ed71ef3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63259}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63259/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: d69b11698f86679b88ad8798ff89ee85]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d69b11698f86679b88ad8798ff89ee85, clickElement {id=3f458b6b-9ca7-4050-9fdf-04999ed71ef3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Rx_bh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63259}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63259/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+Session ID: d69b11698f86679b88ad8798ff89ee85
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy15.click(Unknown Source)
+at com.bank.utility.Utility.clickOnElement(Utility.java:50)
+at com.bank.pages.HomePage.clickOnBankManagerLogin(HomePage.java:31)
+at com.bank.testsuite.BankTest.customerShouldWithdrawMoneySuccessfully(BankTest.java:153)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+            <line>
+              <![CDATA[clickOnAddCustomer[[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[enterFirstName [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterLastName [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[enterPostCode [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnAddCustomerButton [[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Click On Home Button[[ChromeDriver: chrome on WINDOWS (d69b11698f86679b88ad8798ff89ee85)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldWithdrawMoneySuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@4524411f]" name="tearDown" is-config="true" duration-ms="825" started-at="2022-12-12T22:56:38 GMT" finished-at="2022-12-12T22:56:38 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.testsuite.BankTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- testsuite -->
+</testng-results>
